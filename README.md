@@ -2,6 +2,8 @@
 
 A production-grade, offline-first text and video summarization system built with hierarchical map-reduce architecture, multi-model ensemble learning, and advanced hallucination control mechanisms.
 
+![Platform Screenshot](Screenshot%202026-01-07%20222106.png)
+
 ---
 
 ## Table of Contents
