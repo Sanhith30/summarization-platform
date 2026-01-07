@@ -156,6 +156,8 @@ When users provide a focus query:
 
 ## System Architecture
 
+![Architecture Diagram](architecture-diagram.png)
+
 ### High-Level Architecture
 
 ```
