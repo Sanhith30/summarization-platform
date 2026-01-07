@@ -641,4 +641,4 @@ If you use this platform in your research, please cite:
 
 ## Contact
 
-For questions, issues, or contributions, please open a GitHub issue or contact [your-email@example.com].
+For questions, issues, or contributions, please open a GitHub issue or contact sanhithreddy5131@gmail.com.
