@@ -1,6 +1,6 @@
 ---
 title: Real-Time Intelligent Summarization Platform
-emoji: 🧠
+emoji: 🎃
 colorFrom: blue
 colorTo: indigo
 sdk: gradio
