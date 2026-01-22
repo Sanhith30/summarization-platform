@@ -633,11 +633,11 @@ MIT License - See LICENSE file for details.
 If you use this platform in your research, please cite:
 
 ```bibtex
-@software{summarization_platform_2024,
+@software{summarization_platform_2025,
   title={Real-Time Intelligent Summarization Platform},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/summarization-platform}
+  author={THIKKAVARPU SANHITH},
+  year={2025},
+  url={https://github.com/sanhith30/summarization-platform}
 }
 ```
 
